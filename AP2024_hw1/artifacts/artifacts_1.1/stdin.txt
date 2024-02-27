@@ -1,0 +1,24 @@
+PS C:\Users\gdnjr5233_YOLO\Desktop\AP2024_hw1> & C:/Python310/python.exe c:/Users/gdnjr5233_YOLO/Desktop/AP2024_hw1/1.1_nl.py
+Ter Stegen
+Jordi Alba
+Mascherano
+Piqué     
+Dani Alves
+Iniesta(C)     
+Sergio Busquets
+Rakitić        
+Neymar Jr      
+Luis Suárez
+Messi      
+^Z
+1       Ter Stegen
+2       Jordi Alba
+3       Mascherano
+4       Piqué
+5       Dani Alves
+6       Iniesta(C)
+7       Sergio Busquets
+8       Rakitić
+9       Neymar Jr
+10      Luis Suárez
+11      Messi

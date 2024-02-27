@@ -1,0 +1,33 @@
+PS C:\Users\gdnjr5233_YOLO\Desktop\AP2024_hw1> & C:/Python310/python.exe c:/Users/gdnjr5233_YOLO/Desktop/AP2024_hw1/1.1_nl.py nl_test.txt
+1       UEFA Champions League
+2       Final - 6 Jun 2015      
+3
+4       Juventus 1 - 3 Barcelona
+5
+6       Juventus:
+7       1 Buffon(C)
+8       26 Lichtsteiner
+9       15 Barzagli
+10      19 Bonucci
+11      33 Evra
+12      21 Pirlo
+13      8 Marchisio
+14      6 Pogba
+15      23 Vidal
+16      10 Tévez
+17      9 Morata
+18
+19      -----------------------
+20
+21      Barcelona:
+22      1 Ter Stegen
+23      18 Jordi Alba
+24      14 Mascherano
+25      3 Piqué
+26      22 Dani Alves
+27      8 Iniesta(C)
+28      5 Sergio Busquets
+29      4 Rakitić
+30      11 Neymar Jr
+31      9 Luis Suárez
+32      10 Messi

@@ -1,0 +1,2 @@
+PS C:\Users\gdnjr5233_YOLO\Desktop\AP2024_hw1> & C:/Python310/python.exe c:/Users/gdnjr5233_YOLO/Desktop/AP2024_hw1/1.3_wc.py test1.txt
+15      31      166     test1.txt

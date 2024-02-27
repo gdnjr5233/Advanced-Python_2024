@@ -1,0 +1,48 @@
+PS C:\Users\gdnjr5233_YOLO\Desktop\AP2024_hw1> & C:/Python310/python.exe c:/Users/gdnjr5233_YOLO/Desktop/AP2024_hw1/1.2_tail.py
+Juventus:
+Buffon(C)   
+Lichtsteiner
+Barzagli    
+Bonucci     
+Evra        
+Pirlo       
+Marchisio   
+Pogba       
+Vidal    
+Tévez    
+Morata   
+
+-----------------------
+
+Barcelona:
+Ter Stegen
+Jordi Alba
+Mascherano
+Piqué
+Dani Alves
+Iniesta(C)
+Sergio Busquets
+Rakitić
+Neymar Jr
+Luis Suárez
+Messi
+^Z
+original total lines of 'stdin': 27
+the last 17 lines of 'stdin':
+1       Tévez
+2       Morata
+3
+4       -----------------------
+5
+6       Barcelona:
+7       Ter Stegen
+8       Jordi Alba
+9       Mascherano
+10      Piqué
+11      Dani Alves
+12      Iniesta(C)
+13      Sergio Busquets
+14      Rakitić
+15      Neymar Jr
+16      Luis Suárez
+17      Messi
