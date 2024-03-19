@@ -1,6 +1,0 @@
-latex_generator.py
-setup.py
-latexgenerator5233.egg-info/PKG-INFO
-latexgenerator5233.egg-info/SOURCES.txt
-latexgenerator5233.egg-info/dependency_links.txt
-latexgenerator5233.egg-info/top_level.txt
