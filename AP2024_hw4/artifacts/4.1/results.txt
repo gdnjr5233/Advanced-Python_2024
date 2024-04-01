@@ -1,0 +1,3 @@
+Threading -> 26.3615 seconds
+Multiprocessing -> 7.4431 seconds
+Synchronous -> 26.7566 seconds

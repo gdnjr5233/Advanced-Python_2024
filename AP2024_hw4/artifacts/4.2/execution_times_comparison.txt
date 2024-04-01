@@ -1,0 +1,35 @@
+ThreadPoolExecutor execution times:
+1 workers: 1.7787353992462158 seconds
+2 workers: 3.7629384994506836 seconds
+3 workers: 5.821684122085571 seconds
+4 workers: 7.075283527374268 seconds
+5 workers: 8.5585298538208 seconds
+6 workers: 10.47026801109314 seconds
+7 workers: 12.442728519439697 seconds
+8 workers: 14.019667863845825 seconds
+9 workers: 15.723101139068604 seconds
+10 workers: 17.825329542160034 seconds
+11 workers: 19.459190607070923 seconds
+12 workers: 20.983962297439575 seconds
+13 workers: 22.93287467956543 seconds
+14 workers: 24.74709153175354 seconds
+15 workers: 26.47819423675537 seconds
+16 workers: 27.540647506713867 seconds
+
+ProcessPoolExecutor execution times:
+1 workers: 1.8731286525726318 seconds
+2 workers: 2.256965160369873 seconds
+3 workers: 2.2533700466156006 seconds
+4 workers: 2.264547348022461 seconds
+5 workers: 2.53125 seconds
+6 workers: 2.9143009185791016 seconds
+7 workers: 3.4717159271240234 seconds
+8 workers: 3.8915932178497314 seconds
+9 workers: 4.460765361785889 seconds
+10 workers: 4.897902727127075 seconds
+11 workers: 5.463607311248779 seconds
+12 workers: 5.882268905639648 seconds
+13 workers: 6.623587608337402 seconds
+14 workers: 8.577365636825562 seconds
+15 workers: 7.603405237197876 seconds
+16 workers: 8.056708335876465 seconds
